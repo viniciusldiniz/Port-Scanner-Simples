@@ -18,12 +18,10 @@ Este script realiza uma varredura em uma faixa de portas de um host específico,
 - Biblioteca padrão `socket`
 - `sys` para leitura de argumentos de linha de comando
 
+## ⚠️ Aviso Legal
 
-##⚠️ Aviso Legal
-
-Este projeto é fornecido exclusivamente para fins educacionais e deve ser utilizado apenas em ambientes controlados ou com permissão explícita.
-O uso indevido deste código para varredura de redes de terceiros pode ser ilegal e está sujeito às leis locais.
-
+> Este projeto é fornecido **exclusivamente para fins educacionais** e deve ser utilizado **apenas em ambientes controlados ou com permissão explícita**.  
+> O uso indevido deste código para varredura de redes de terceiros pode ser ilegal e está sujeito às leis locais.
 
 ## ⚙️ Como Usar
 
@@ -38,6 +36,3 @@ O uso indevido deste código para varredura de redes de terceiros pode ser ilega
 ```bash
 git clone https://github.com/viniciusldiniz/Port-Scanner-Simples.git
 cd Port-Scanner-Simples
-
-
-
