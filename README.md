@@ -20,6 +20,7 @@ Este script realiza uma varredura em uma faixa de portas de um host específico,
 
 
 #⚠️ Aviso Legal
+
 Este projeto é fornecido exclusivamente para fins educacionais e deve ser utilizado apenas em ambientes controlados ou com permissão explícita.
 O uso indevido deste código para varredura de redes de terceiros pode ser ilegal e está sujeito às leis locais.
 
