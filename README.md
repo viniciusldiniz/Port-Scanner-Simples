@@ -34,5 +34,5 @@ Este script realiza uma varredura em uma faixa de portas de um host específico,
 ### 2. Clone ou baixe o repositório
 
 ```bash
-git clone https://github.com/viniciusldiniz/Port-Scanner-Simples.git
+git clone https://github.com/viniciusldiniz/PortScannerSimples.git
 cd Port-Scanner-Simples
